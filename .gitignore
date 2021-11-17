@@ -1,10 +1,6 @@
 
-
-
-.auto_sync_mark
 .Archive/
 .markeditor/
-.metion/
 .markdown/
 .sync/
 .idea/
@@ -20,3 +16,7 @@ Thumbs.db*
 /__wechat.json
 /*.sqlite3
 .db/
+
+!.metion/
+.metion/*
+!.metion/*_sort.config
