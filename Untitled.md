@@ -1,17 +1,21 @@
-# introduce yourself
+顾虑:
 
-我的名字是王宇卿。
-
-我毕业于西安电子科技大学。我工作4年了有过2分工作经验。
-
-我第一份工作在小米，这是一家以手机为主要业务的公司，我担任业务安全后端研发工程师。主要负责小米账号申诉系统和销售运营平台的风险识别工作。
-
-我第二份工作在bytedance，它最著名的产品是tiktok，我担任内容安全后端研发工程师。主要参与建设内容风险识别系统，包括文本、音频、视频内容。还有各种产品形态，例如短音频实时API，长视频异步API，直播，实时音视频(Real-time communication)等。后来因为团队变动我还来TikTok业务做了1年业务研发。
+1. 希望离你们近一点，方便互相照；
+2. 德阳的房子周围的医疗交通设施条件有限，对养老生活不那么便利；
+3. 德阳的经济发展不太行，担心人口流出过多，导致此地的基础设施建设更加恶化；
 
 
 
-Fine, my name is wangyuqing.
+可提供方案：
 
-I graduate from Xidian university. I already do work nearly 4 years ago.
+1. 爸妈在退休后，仍在西宁住几年，同时，把德阳房子挂出去售卖，等房子卖出去或者过几年，我们有点额外的积蓄后，在重庆置办一套房，离我们近一点。
+2. 按计划去德阳装修，居住，估计生活持续10-15年，我们就不会放心你们离我们太远了。那个时候再考虑在重庆购置新房。
+3. 爸妈退休后，去重庆居住我俩的房子，等我们考虑离开北京的时候，再置换房子。
 
-My first job at xiaomi which major business is produce phone, I hold business security backend development engineer position. Main duty is to build Xiaomi account appeal system and monitor risk from sales operations platform.
+
+
+1.德阳的房子是否要买 （是否要继续装修）；（我们可以给他们兜底，且愿意兜底，且是应该的，不用觉得有负担，）
+
+2.新购置的房在哪儿买（我们希望爸妈在重庆）；
+
+3.退休时间。
